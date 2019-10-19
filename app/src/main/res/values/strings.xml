@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rx References</string>
+    <string name="click_to_count">Click To Count</string>
+    <string name="rx_counter">Rx counter!</string>
+</resources>
